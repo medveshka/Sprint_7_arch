@@ -1,0 +1,13 @@
+{
+  "firstName": "Joseph",
+  "lastName": "Brodsky",
+  "address": "Isola di San Michele, Venice, Veneto, Italy",
+  "metroStation": 1,
+  "phone": "+76669998877",
+  "rentTime": 4,
+  "deliveryDate": "2023-08-06",
+  "comment": "Brodsky is the only modern Russian poet whose body of work has already been awarded the honorary title of a canonized classic",
+  "color": [
+    "BLUE"
+  ]
+}
